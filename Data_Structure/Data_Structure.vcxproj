@@ -18,6 +18,38 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="c3.cpp" />
+    <ClCompile Include="c5_list.cpp" />
+    <ClCompile Include="c5_list_main.cpp" />
+    <ClCompile Include="c1.c" />
+    <ClCompile Include="c1_main.c" />
+    <ClCompile Include="c2.cpp" />
+    <ClCompile Include="c2.h" />
+    <ClCompile Include="c2_main.cpp" />
+    <ClCompile Include="c3_main.cpp" />
+    <ClCompile Include="c4_main.cpp" />
+    <ClCompile Include="c4_use.cpp" />
+    <ClCompile Include="c6_list_main.cpp" />
+    <ClCompile Include="c7_stack.cpp" />
+    <ClCompile Include="c7_stack_main.cpp" />
+    <ClCompile Include="c9_stack.cpp" />
+    <ClCompile Include="c9_stack_main.cpp" />
+    <ClCompile Include="Calendar.cpp" />
+    <ClCompile Include="FileName.cpp" />
+    <ClCompile Include="overloading_overriding.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="c5_list.h" />
+    <ClInclude Include="c1.h" />
+    <ClInclude Include="c3.h" />
+    <ClInclude Include="c4.h" />
+    <ClInclude Include="c7_stack.h" />
+    <ClInclude Include="c9_stack.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

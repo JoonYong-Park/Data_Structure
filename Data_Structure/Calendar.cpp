@@ -2,7 +2,7 @@
 using namespace std;
 
 /// 동적 할당 2차원 배열로 달력 출력 ///
-int main() {
+int main_CAL() {
     // 2차원 배열 동적 할당
     int height = 6, width = 7;
     int** arr;

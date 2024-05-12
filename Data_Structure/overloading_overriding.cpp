@@ -33,7 +33,7 @@ class Dog : public Animal {
 };
 
 // 메인 함수
-int main() {
+int main_OLR() {
 
     // Overloading
     func(3);
