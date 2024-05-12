@@ -25,7 +25,7 @@ int main_3() {
 	*(p + 3) = 4;
 	*(p + 4) = 5;
 
-	printf("p = %d\n",*p); // ÁÖ¼Ò°ª
+	printf("p = %d\n",*p);			  // 1
 	printf("p + 1 = %d\n", *(p + 1)); // 2
 	printf("p + 2 = %d\n", *(p + 2)); // 3
 	printf("p + 3 = %d\n", *(p + 3)); // 4

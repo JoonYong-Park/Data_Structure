@@ -1,9 +1,9 @@
 #include "c2.h"
 
-// 2주차 추상 자료형
+// 2주차 - 추상 자료형
 // c++ 버전
 
-int main()
+int main_2()
 {
 	USER J;
 

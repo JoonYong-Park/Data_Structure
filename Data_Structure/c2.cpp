@@ -2,6 +2,8 @@
 #include <string.h> 
 #include <iostream> 
 
+using namespace std;
+
 void USER::setUser(USER* A, const char name[50], const  char gender[50], const  char age[50], const  char phone[50])
 {
 	strcpy_s(A->name, 50, name);
@@ -12,8 +14,8 @@ void USER::setUser(USER* A, const char name[50], const  char gender[50], const  
 
 void USER::getUser()
 {
-	std::cout << "name : " << name << std::endl;
-	std::cout << "gender : "<< gender << std::endl;
-	std::cout << "age : " << age << std::endl;
-	std::cout << "phone : " << phone << std::endl;
+	cout << "name   : " << name << endl;
+	cout << "gender : "<< gender << endl;
+	cout << "age    : " << age << endl;
+	cout << "phone  : " << phone << endl;
 }
