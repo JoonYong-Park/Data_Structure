@@ -4,7 +4,7 @@
 
 
 
-int main() {
+int main_5() {
 	
 	// 리스트 ADT 테스트
 	List L; 
