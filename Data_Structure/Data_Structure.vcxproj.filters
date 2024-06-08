@@ -69,11 +69,20 @@
     <ClCompile Include="c9_stack.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="FileName.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="c3.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c12_sort_main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Fibo.cpp">
+      <Filter>소스 파일\Report</Filter>
+    </ClCompile>
+    <ClCompile Include="c13_tree_main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Postfix.cpp">
+      <Filter>소스 파일\Report</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

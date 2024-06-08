@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="c12_sort_main.cpp" />
+    <ClCompile Include="c13_tree_main.cpp" />
     <ClCompile Include="c3.cpp" />
     <ClCompile Include="c5_list.cpp" />
     <ClCompile Include="c5_list_main.cpp" />
@@ -36,7 +38,8 @@
     <ClCompile Include="c9_stack.cpp" />
     <ClCompile Include="c9_stack_main.cpp" />
     <ClCompile Include="Calendar.cpp" />
-    <ClCompile Include="FileName.cpp" />
+    <ClCompile Include="Fibo.cpp" />
+    <ClCompile Include="Postfix.cpp" />
     <ClCompile Include="overloading_overriding.cpp" />
   </ItemGroup>
   <ItemGroup>
